@@ -1,8 +1,8 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :
-## NAME :																			             
-## ROLLNUMBER :
-## DEPARTMENT 
+## DATE : 15/02/2024
+## NAME : NAGARAJ S																			             
+## ROLLNUMBER : 212221040109
+## DEPARTMENT : CSE
 
 
 ## AIM:
