@@ -108,3 +108,7 @@ void loop()
 
 ![image](https://github.com/EzhilsreeJ/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870412/6ed31c52-9f9f-49fc-b4e5-c1cc3e30bea7)
 
+## RESULT:
+
+Interfaced a digital input (push button) and made an LED blink upon activation has been executed successfully.
+
