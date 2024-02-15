@@ -101,5 +101,6 @@ void loop() {
 ![2](https://github.com/nagaraj6618/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/127173574/fb9dd871-45e4-46a0-a495-7ce43400c7a1)
 
 
-[My image](username.github.com/repository/img/image.jpg)
+## RESULT :
+	Interfacing with Push button and LED was executed successfully.
 
