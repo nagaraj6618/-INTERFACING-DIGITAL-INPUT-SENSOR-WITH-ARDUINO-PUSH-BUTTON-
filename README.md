@@ -63,8 +63,7 @@ FIGURE -03
 
 ## PROGRAM 
  
- int led=4;
-int pushbutton=3;
+```int led=4;int pushbutton=3;
 void setup()
 {
   pinMode(led, OUTPUT);
@@ -87,7 +86,7 @@ void loop()
    digitalWrite(led, LOW);
   }
 }
-
+```
 
 
 
