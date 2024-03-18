@@ -56,8 +56,9 @@ FIGURE-02
 
 
 
-FIGURE -03
+## SCHEMATICS
 
+![image](https://github.com/EzhilsreeJ/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870412/6ed31c52-9f9f-49fc-b4e5-c1cc3e30bea7)
 
 
 
@@ -105,7 +106,6 @@ void loop()
 
 ![My image](https://github.com/EzhilsreeJ/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870412/ccc5b4e2-b4f1-4f84-905f-9e172c2817bb)
 
-![image](https://github.com/EzhilsreeJ/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870412/6ed31c52-9f9f-49fc-b4e5-c1cc3e30bea7)
 
 ## RESULT:
 
